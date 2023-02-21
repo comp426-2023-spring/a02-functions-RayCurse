@@ -2,7 +2,7 @@
   "name": "a02-functions-raycurse",
   "version": "0.0.1",
   "description": "This assignment will help you learn to create an installable Node.js command line utility.",
-  "type": "module",
+  "type": "commonjs",
   "main": "index.js",
   "scripts": {
     "test": "node cli.js -n 35.92 -w 79.05 -z America/New_York"
